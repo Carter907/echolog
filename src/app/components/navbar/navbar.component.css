@@ -1,0 +1,16 @@
+a {
+    @apply
+    px-2
+    py-1
+    border-2
+    border-gray-800
+    rounded-full
+    text-center
+}
+
+.active {
+    @apply
+    ring-gray-500/20
+    ring-8
+    rounded-full
+}
